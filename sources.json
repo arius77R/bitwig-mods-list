@@ -3,6 +3,7 @@
     { "group": "mods", "repo": "shaboogen-dev/Mods", "note": "Mods by shaboogen, the author of Patchbay" },
     { "group": "mods", "repo": "polarity/bitwig-mods", "note": "Mods by Polarity" },
     { "group": "devices", "repo": "polarity/bitwig-devices", "note": "Audio FX, instruments, note FX and modulators by Polarity" },
-    { "group": "themes", "repo": "csabacsaba/bw6themes", "note": "Colour themes for Bitwig 6" }
+    { "group": "themes", "repo": "csabacsaba/bw6themes", "note": "Colour themes for Bitwig 6" },
+    { "group": "mods", "repo": "cimmmusic/bitwig-mods", "note": "Mods by cimmmusic for the Mixer! Pin Channels, VU Meter, VCA Faders, Mini Views etc." }
   ]
 }
